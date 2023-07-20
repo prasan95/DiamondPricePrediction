@@ -1,3 +1,4 @@
+README.md
 setup.py
 DiamondPricePredication.egg-info/PKG-INFO
 DiamondPricePredication.egg-info/SOURCES.txt
@@ -5,3 +6,13 @@ DiamondPricePredication.egg-info/dependency_links.txt
 DiamondPricePredication.egg-info/requires.txt
 DiamondPricePredication.egg-info/top_level.txt
 src/__init__.py
+src/exceptions.py
+src/logger.py
+src/utils.py
+src/components/__init__.py
+src/components/data_ingestion.py
+src/components/data_transformation.py
+src/components/model_trainer.py
+src/pipelines/__init__.py
+src/pipelines/prediction_pipeline.py
+src/pipelines/training_pipeline.py
